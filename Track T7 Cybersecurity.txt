@@ -1,0 +1,90 @@
+Module 1:-
+1. Cybersecurity Prologue (Fresco)
+2. The absolute beginners guide to information cybersecurity.
+   https://tcsglobal.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/
+  
+   OR
+
+   https://learning.oreilly.com/videos/cissp-r-certification-domain/9781838647353
+
+Module 2:-
+1. https://www.youtube.com/watch?v=avFR_Af0KGk
+  OR
+  https://tcsglobal.udemy.com/course/application-security-the-complete-guide/learn/lecture/21265360?start=15#overview
+
+2. https://play.fresco.me/course/527  (Web Service Security)
+
+3. https://play.fresco.me/course/496  (Mobile App Security)
+   OR
+   https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/what-your-mobile-applications-are-really-doing?u=2154233
+
+4. https://play.fresco.me/course/671  (Database Security)
+
+5. https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf
+
+Module 3:-
+1. https://www.youtube.com/watch?v=9WckTTqpD_M
+
+2. https://www.youtube.com/watch?v=t0GBK3N5Wes
+   OR
+   https://learning.oreilly.com/videos/data-security-and/9781838643140/
+
+3. 60767    Digital : Cybersecurity-Securing the Enterprise and Consumer_Expert Connects_vILT
+   
+Module 4:-
+1. https://www.youtube.com/watch?v=6Jubl1UnJTE
+   OR
+   https://www.linkedin.com/learning/it-security-foundations-network-security-2/securing-the-network?u=2154233
+
+2. https://www.youtube.com/watch?v=8Wt0YHNGrlM&feature=youtu.be
+   OR
+   https://www.linkedin.com/learning/ethical-hacking-cryptography/why-become-an-ethical-hacker?u=2154233 
+
+3. 60767    Digital : Cybersecurity-Securing the Enterprise and Consumer_Expert Connects_vILT
+
+Module 5:-
+1. https://play.fresco.me/course/479  (Threat Modeling)
+   OR
+   https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=2154233
+
+2. https://play.fresco.me/course/375  (Threat Hunting)
+   OR
+   https://learning.oreilly.com/library/view/threat-hunting/9781492028260/
+
+3. https://play.fresco.me/course/626  (OWASP Top 10 Vulnerabilities) 
+   OR
+   https://www.linkedin.com/learning/paths/master-the-owasp-top-10?u=2154233
+
+4. https://play.fresco.me/course/651  (Security Assessment)
+   OR
+   https://www.linkedin.com/learning/cissp-cert-prep-6-security-assessment-and-testing-2018/put-your-security-to-the-test?u=2154233
+
+Module 6:-
+1. https://play.fresco.me/course/526  (Burp Suite)
+   OR
+   https://tcsglobal.udemy.com/course/burp-suite-a-master-of-bug-bounty-hunter/learn/lecture/9511292#overview
+
+2. https://play.fresco.me/course/506  (Security Analytics with Apache Metron)
+   
+Module 7:-
+1. https://www.youtube.com/watch?v=8rYaUxgfhHM
+   OR
+   https://www.linkedin.com/learning/comptia-security-plus-sy0-601-cert-prep-4-identity-and-access-management-design-and-implementation/what-you-need-to-know?u=2154233
+
+2. https://youtu.be/TMmbWjk5-oM
+   OR
+   https://www.linkedin.com/learning/search?entityType=VIDEO&keywords=cloud%20application%20security&u=2154233
+
+3. https://youtu.be/RePmeYil184
+   OR
+   https://learning.oreilly.com/library/view/security-privacy-and/9781119053286/c02.xhtml
+
+Module 8:-
+1. https://play.fresco.me/course/716  (DevOps Security)
+   OR
+   https://www.linkedin.com/learning/devops-foundations-devsecops/welcome?u=2154233
+
+Hands-On Case Study :-
+1. https://play.fresco.me/Course/1486  (#Mini-Project for T7 Wings - Vulnerability and Securing Coding)
+
+   
